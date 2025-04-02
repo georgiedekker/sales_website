@@ -1,0 +1,3 @@
+[submodule "RaiseMyTicket/RaiseMyTicket"]
+	path = RaiseMyTicket/RaiseMyTicket
+	url = https://github.com/georgiedekker/RaiseMyTicket.git 
