@@ -12,7 +12,7 @@ export default function Home() {
       <header className="bg-gradient-to-r from-blue-600 to-blue-800 text-white">
         <div className="container mx-auto px-6 py-16 md:py-24">
           <nav className="flex justify-between items-center mb-16">
-            <div className="text-2xl font-bold">RaiseMyTicket.com</div>
+            <div className="text-2xl font-bold">RaiseMyTickets.com</div>
             {/* Navigation buttons hidden for now
             <div className="space-x-4">
               <Button variant="ghost" className="text-white hover:text-white hover:bg-blue-700">Features</Button>
@@ -34,7 +34,7 @@ export default function Home() {
             <div className="md:w-1/2 flex justify-center">
               <div className="bg-white/10 backdrop-blur-sm p-8 rounded-lg shadow-xl w-full max-w-md">
                 <h3 className="text-2xl font-semibold mb-4">Trusted by Global Leaders</h3>
-                <p className="mb-4">Join the growing number of Fortune 500 companies streamlining their support operations with RaiseMyTicket.com</p>
+                <p className="mb-4">Join the growing number of Fortune 500 companies streamlining their support operations with RaiseMyTickets.com</p>
                 <div className="grid grid-cols-3 gap-4">
                   <div className="bg-white/20 h-12 rounded-md"></div>
                   <div className="bg-white/20 h-12 rounded-md"></div>
@@ -49,7 +49,7 @@ export default function Home() {
       {/* Value Proposition */}
       <section className="py-16 bg-slate-50">
         <div className="container mx-auto px-6">
-          <h2 className="text-3xl font-bold text-center mb-12">Why Enterprise Leaders Choose RaiseMyTicket.com</h2>
+          <h2 className="text-3xl font-bold text-center mb-12">Why Enterprise Leaders Choose RaiseMyTickets.com</h2>
           
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
             <Card>
@@ -95,7 +95,7 @@ export default function Home() {
       <section className="py-16">
         <div className="container mx-auto px-6">
           <h2 className="text-3xl font-bold text-center mb-4">Comprehensive Service Coverage</h2>
-          <p className="text-center text-gray-600 mb-12 max-w-2xl mx-auto">RaiseMyTicket.com handles all your service categories through one unified platform:</p>
+          <p className="text-center text-gray-600 mb-12 max-w-2xl mx-auto">RaiseMyTickets.com handles all your service categories through one unified platform:</p>
           
           <div className="grid md:grid-cols-3 gap-8">
             <Card className="bg-blue-50 border-blue-200">
@@ -131,7 +131,7 @@ export default function Home() {
       {/* How It Works */}
       <section className="py-16 bg-slate-50">
         <div className="container mx-auto px-6">
-          <h2 className="text-3xl font-bold text-center mb-12">How RaiseMyTicket.com Works</h2>
+          <h2 className="text-3xl font-bold text-center mb-12">How RaiseMyTickets.com Works</h2>
           
           <div className="grid md:grid-cols-4 gap-8">
             <div className="flex flex-col items-center text-center">
@@ -172,7 +172,7 @@ export default function Home() {
                 <CardTitle className="text-white">Streamlined Our Support Operations</CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="mb-4">"RaiseMyTicket.com transformed how our employees interact with internal support services. Ticket resolution times improved by 35% in the first quarter."</p>
+                <p className="mb-4">"RaiseMyTickets.com transformed how our employees interact with internal support services. Ticket resolution times improved by 35% in the first quarter."</p>
                 <p className="font-semibold">— CIO, Global Manufacturing Corporation</p>
               </CardContent>
             </Card>
@@ -192,7 +192,7 @@ export default function Home() {
                 <CardTitle className="text-white">Seamless Implementation</CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="mb-4">"The onboarding process was thorough and efficient. The RaiseMyTicket team understood our complex needs and configured the system perfectly."</p>
+                <p className="mb-4">"The onboarding process was thorough and efficient. The RaiseMyTickets team understood our complex needs and configured the system perfectly."</p>
                 <p className="font-semibold">— Operations Manager, Technology Enterprise</p>
               </CardContent>
             </Card>
@@ -204,7 +204,7 @@ export default function Home() {
       <section className="py-16">
         <div className="container mx-auto px-6 text-center">
           <h2 className="text-3xl font-bold mb-4">Ready to transform your service management?</h2>
-          <p className="mb-8 max-w-2xl mx-auto">Join the growing number of leading enterprises who trust RaiseMyTicket.com to handle their service requests with efficiency and precision.</p>
+          <p className="mb-8 max-w-2xl mx-auto">Join the growing number of leading enterprises who trust RaiseMyTickets.com to handle their service requests with efficiency and precision.</p>
           
           <div className="flex flex-col sm:flex-row justify-center space-y-4 sm:space-y-0 sm:space-x-4">
             <Button size="lg" className="bg-blue-600 hover:bg-blue-700">
@@ -222,7 +222,7 @@ export default function Home() {
         <div className="container mx-auto px-6">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
             <div>
-              <h3 className="text-lg font-semibold mb-4">RaiseMyTicket.com</h3>
+              <h3 className="text-lg font-semibold mb-4">RaiseMyTickets.com</h3>
               <p className="text-slate-400">Simplifying enterprise support through unified, AI-powered ticket management.</p>
             </div>
             
@@ -257,7 +257,7 @@ export default function Home() {
           </div>
           
           <div className="border-t border-slate-800 mt-12 pt-8 text-center text-slate-400">
-            <p>© {new Date().getFullYear()} RaiseMyTicket.com. All rights reserved.</p>
+            <p>© {new Date().getFullYear()} RaiseMyTickets.com. All rights reserved.</p>
           </div>
         </div>
       </footer>
